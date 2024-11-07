@@ -1,0 +1,9 @@
+.red-text {
+    background-color: #ffc0cb;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#big-blue-text {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
