@@ -7,3 +7,13 @@
     color: hsl(240, 100%, 50%);
     font-size: 36px;
 }
+
+.large-text {
+    font-size: 24px;
+}
+
+#big-green-text{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
